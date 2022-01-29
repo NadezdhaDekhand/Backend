@@ -7,5 +7,4 @@ import lombok.Data;
 public class UserFollow {
     @JsonProperty("status")
     public Boolean status;
-
 }
